@@ -1,4 +1,9 @@
-﻿namespace COMP003A.Assignment3
+﻿/* Author: Bryan Chavez
+ * Cource: CIS-003A-L01
+ * Purpose: Condition Statments
+ */
+namespace COMP003A.Assignment3
+
 {
     internal class Program
     {
